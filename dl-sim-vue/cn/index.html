@@ -1,135 +1,152 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <style type="text/css">
-      .app-loader,
-      .app-loader:before,
-      .app-loader:after {
-        background: #228be6;
-        -webkit-animation: load1 1s infinite ease-in-out;
-        animation: load1 1s infinite ease-in-out;
-        width: 1em;
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <style type="text/css">
+    .app-loader,
+    .app-loader:before,
+    .app-loader:after {
+      background: #228be6;
+      -webkit-animation: load1 1s infinite ease-in-out;
+      animation: load1 1s infinite ease-in-out;
+      width: 1em;
+      height: 4em;
+    }
+
+    .app-loader {
+      color: #228be6;
+      text-indent: -9999em;
+      margin: 88px auto;
+      position: relative;
+      font-size: 11px;
+      -webkit-transform: translateZ(0);
+      -ms-transform: translateZ(0);
+      transform: translateZ(0);
+      -webkit-animation-delay: -0.16s;
+      animation-delay: -0.16s;
+      margin-top: 50vh;
+    }
+
+    .app-loader:before,
+    .app-loader:after {
+      position: absolute;
+      top: 0;
+      content: '';
+    }
+
+    .app-loader:before {
+      left: -1.5em;
+      -webkit-animation-delay: -0.32s;
+      animation-delay: -0.32s;
+    }
+
+    .app-loader:after {
+      left: 1.5em;
+    }
+
+    @-webkit-keyframes load1 {
+
+      0%,
+      80%,
+      100% {
+        box-shadow: 0 0;
         height: 4em;
       }
-      .app-loader {
-        color: #228be6;
-        text-indent: -9999em;
-        margin: 88px auto;
-        position: relative;
-        font-size: 11px;
-        -webkit-transform: translateZ(0);
-        -ms-transform: translateZ(0);
-        transform: translateZ(0);
-        -webkit-animation-delay: -0.16s;
-        animation-delay: -0.16s;
-        margin-top:50vh;
+
+      40% {
+        box-shadow: 0 -2em;
+        height: 5em;
       }
-      .app-loader:before,
-      .app-loader:after {
-        position: absolute;
-        top: 0;
-        content: '';
+    }
+
+    @keyframes load1 {
+
+      0%,
+      80%,
+      100% {
+        box-shadow: 0 0;
+        height: 4em;
       }
-      .app-loader:before {
-        left: -1.5em;
-        -webkit-animation-delay: -0.32s;
-        animation-delay: -0.32s;
+
+      40% {
+        box-shadow: 0 -2em;
+        height: 5em;
       }
-      .app-loader:after {
-        left: 1.5em;
+    }
+  </style>
+  <link rel="icon"
+    href="https://cdn.jsdelivr.net/gh/Mushymato/mushymato.github.io@master/dl-sim-deploy/dl-sim/favicon.png">
+  <title>DPS Simulator for Dragalia Lost</title>
+  <link href="https://cdn.jsdelivr.net/gh/Mushymato/mushymato.github.io@master/dl-sim-vue/js/about.js" rel="prefetch">
+  <link href="https://cdn.jsdelivr.net/gh/Mushymato/mushymato.github.io@master/dl-sim-vue/css/app.css" rel="preload"
+    as="style">
+  <link href="https://cdn.jsdelivr.net/gh/Mushymato/mushymato.github.io@master/dl-sim-vue/css/chunk-vendors.css"
+    rel="preload" as="style">
+  <!-- <link href="https://cdn.jsdelivr.net/gh/Mushymato/mushymato.github.io@master/dl-sim-vue/js/app.js" rel="preload" as="script"> -->
+  <!-- <link href="https://cdn.jsdelivr.net/gh/Mushymato/mushymato.github.io@master/dl-sim-vue/js/chunk-vendors.js" rel="preload" as="script"> -->
+  <link href="https://cdn.jsdelivr.net/gh/Mushymato/mushymato.github.io@master/dl-sim-vue/css/chunk-vendors.css"
+    rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/gh/Mushymato/mushymato.github.io@master/dl-sim-vue/css/app.css" rel="stylesheet">
+</head>
+
+<body>
+  <noscript>
+    <strong>We're sorry but [DPS Simulator for Dragalia Lost] doesn't work properly without JavaScript enabled. Please
+      enable it to continue.</strong>
+  </noscript>
+  <div id="app">
+    <div class="app-loader"></div>
+  </div>
+  <!-- built files will be auto injected -->
+
+  <script
+    src="https://cdn.jsdelivr.net/gh/Mushymato/mushymato.github.io@master/dl-sim-vue/js/chunk-vendors.js"></script>
+  <!-- <script src="https://cdn.jsdelivr.net/gh/Mushymato/mushymato.github.io@master/dl-sim-vue/js/app.js"></script> -->
+
+  <script>
+    (function () {
+      function fetch_from_jsdelivr(url) {
+        return new Promise(function (resolve, reject) {
+          var xhr = new XMLHttpRequest();
+          console.log(xhr);
+          xhr.addEventListener("load", function () {
+            var body = xhr.responseText;
+            if (url.match(/\/app.js$/)) {
+              body = body.replace(/\"\/dl-sim\//g, '"https://cdn.jsdelivr.net/gh/Mushymato/mushymato.github.io@master/dl-sim-deploy/dl-sim/');
+              // body = body.replace(/\"text\"/, '"blob"');
+
+              //body = body.replace(/\"https:\/\/cdn\.jsdelivr\.net\/gh\/Mushymato\/mushymato\.github.\io@master\/dl-sim\/page\/\"/g, '"https://mushymato.github.io/dl-sim-deploy/dl-sim/page/"');
+              body = body.replace(/\"https:\/\/cdn\.jsdelivr\.net\/gh\/Mushymato\/mushymato\.github.\io@master\/dl-sim\/page\/\"/g, '"/dl-sim-deploy/dl-sim/page/"');
+            }
+            resolve(body);
+          });
+          xhr.addEventListener("error", function (e) {
+            reject(e);
+          });
+          xhr.open("GET", "https://cdn.jsdelivr.net/gh/Mushymato/mushymato.github.io@master" + url);
+          xhr.send();
+        });
+      };
+
+      function create_script(url) {
+        return new Promise(function (resolve, reject) {
+          fetch_from_jsdelivr(url)
+            .then(function (jsbody) {
+              eval(jsbody);
+              resolve();
+            })
+            .catch(function () {
+              resolve();
+            })
+        });
       }
-      @-webkit-keyframes load1 {
-        0%,
-        80%,
-        100% {
-          box-shadow: 0 0;
-          height: 4em;
-        }
-        40% {
-          box-shadow: 0 -2em;
-          height: 5em;
-        }
-      }
-      @keyframes load1 {
-        0%,
-        80%,
-        100% {
-          box-shadow: 0 0;
-          height: 4em;
-        }
-        40% {
-          box-shadow: 0 -2em;
-          height: 5em;
-        }
-      }
-    </style>
-    <link rel="icon" href="https://cdn.jsdelivr.net/gh/Mushymato/mushymato.github.io@master/dl-sim/favicon.png">
-    <title>DPS Simulator for Dragalia Lost</title>
-    <link href="https://cdn.jsdelivr.net/gh/Mushymato/mushymato.github.io@master/dl-sim-vue/js/about.js" rel="prefetch">
-    <link href="https://cdn.jsdelivr.net/gh/Mushymato/mushymato.github.io@master/dl-sim-vue/css/app.css" rel="preload" as="style">
-    <link href="https://cdn.jsdelivr.net/gh/Mushymato/mushymato.github.io@master/dl-sim-vue/css/chunk-vendors.css" rel="preload" as="style">
-    <!-- <link href="https://cdn.jsdelivr.net/gh/Mushymato/mushymato.github.io@master/dl-sim-vue/js/app.js" rel="preload" as="script"> -->
-    <!-- <link href="https://cdn.jsdelivr.net/gh/Mushymato/mushymato.github.io@master/dl-sim-vue/js/chunk-vendors.js" rel="preload" as="script"> -->
-    <link href="https://cdn.jsdelivr.net/gh/Mushymato/mushymato.github.io@master/dl-sim-vue/css/chunk-vendors.css" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/gh/Mushymato/mushymato.github.io@master/dl-sim-vue/css/app.css" rel="stylesheet">
-  </head>
-  <body>
-    <noscript>
-      <strong>We're sorry but [DPS Simulator for Dragalia Lost] doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
-    </noscript>
-    <div id="app">
-      <div class="app-loader"></div>
-    </div>
-    <!-- built files will be auto injected -->
-    
-    <script src="https://cdn.jsdelivr.net/gh/Mushymato/mushymato.github.io@master/dl-sim-vue/js/chunk-vendors.js"></script>
-    <!-- <script src="https://cdn.jsdelivr.net/gh/Mushymato/mushymato.github.io@master/dl-sim-vue/js/app.js"></script> -->
-    
-    <script>
-        (function() {
-            function fetch_from_jsdelivr(url) {
-                return new Promise(function(resolve, reject) {
-                    var xhr = new XMLHttpRequest();
-                    console.log(xhr);
-                    xhr.addEventListener("load", function() {
-                        var body = xhr.responseText;
-                        if (url.match(/\/app.js$/)) {
-                            body = body.replace(/\"\/dl-sim\//g, '"https://cdn.jsdelivr.net/gh/Mushymato/mushymato.github.io@master/dl-sim/');                            
-                            // body = body.replace(/\"text\"/, '"blob"');
-                            
-                            //body = body.replace(/\"https:\/\/cdn\.jsdelivr\.net\/gh\/Mushymato\/mushymato\.github.\io@master\/dl-sim\/page\/\"/g, '"https://mushymato.github.io/dl-sim/page/"');
-                            body = body.replace(/\"https:\/\/cdn\.jsdelivr\.net\/gh\/Mushymato\/mushymato\.github.\io@master\/dl-sim\/page\/\"/g, '"/dl-sim/page/"');
-                        }
-                        resolve(body);
-                    });
-                    xhr.addEventListener("error", function(e) {
-                        reject(e);
-                    });
-                    xhr.open("GET", "https://cdn.jsdelivr.net/gh/Mushymato/mushymato.github.io@master" + url);
-                    xhr.send();
-                });
-            };
-            
-            function create_script(url) {
-                return new Promise(function(resolve, reject) {
-                    fetch_from_jsdelivr(url)
-                    .then(function(jsbody) {
-                        eval(jsbody);
-                        resolve();
-                    })
-                    .catch(function() {
-                        resolve();
-                    })
-                });
-            }            
-            // window.create_script = create_script;
-            // window.fetch_from_jsdelivr = fetch_from_jsdelivr;
-            create_script("/dl-sim-vue/js/app.js");
-        })();
-    </script>
+      // window.create_script = create_script;
+      // window.fetch_from_jsdelivr = fetch_from_jsdelivr;
+      create_script("/dl-sim-vue/js/app.js");
+    })();
+  </script>
+
 </html>
-
-

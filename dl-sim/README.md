@@ -6,7 +6,7 @@ This is a fork of the [Dragalia Lost DPS simulator](https://github.com/b1ueb1ues
 - [Python simulator](https://github.com/mushymato/dl)
 - [Web UI](https://wildshinobu.pythonanywhere.com/ui/dl_simc.html)
 - [Skill frame data](https://github.com/mushymato/dl/tree/master/framedata/skills)
-- [护符对照表 (For Mandarin users)](https://github.com/mushymato/mushymato.github.io/blob/master/dl-sim/amulet.csv)
+- [护符对照表 (For Mandarin users)](https://github.com/mushymato/mushymato.github.io/blob/master/dl-sim-deploy/dl-sim/amulet.csv)
 
 ## Setup
 - Max level (lv80/lv100) and max mana circle/spiral (50mc/70mc) characters

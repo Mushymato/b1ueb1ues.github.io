@@ -105,1651 +105,1651 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/dl-sim/120/data__.csv": {
+	"/dl-sim-deploy/dl-sim/120/data__.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/120/data__.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/120/data__.csv",
 		"oF": 0
 		},
-	"/dl-sim/120/data_b.csv": {
+	"/dl-sim-deploy/dl-sim/120/data_b.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/120/data_b.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/120/data_b.csv",
 		"oF": 0
 		},
-	"/dl-sim/120/data_d.csv": {
+	"/dl-sim-deploy/dl-sim/120/data_d.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/120/data_d.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/120/data_d.csv",
 		"oF": 0
 		},
-	"/dl-sim/120/data_db.csv": {
+	"/dl-sim-deploy/dl-sim/120/data_db.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/120/data_db.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/120/data_db.csv",
 		"oF": 0
 		},
-	"/dl-sim/120/data_k.csv": {
+	"/dl-sim-deploy/dl-sim/120/data_k.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/120/data_k.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/120/data_k.csv",
 		"oF": 0
 		},
-	"/dl-sim/120/data_kb.csv": {
+	"/dl-sim-deploy/dl-sim/120/data_kb.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/120/data_kb.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/120/data_kb.csv",
 		"oF": 0
 		},
-	"/dl-sim/120/data_kd.csv": {
+	"/dl-sim-deploy/dl-sim/120/data_kd.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/120/data_kd.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/120/data_kd.csv",
 		"oF": 0
 		},
-	"/dl-sim/120/data_kdb.csv": {
+	"/dl-sim-deploy/dl-sim/120/data_kdb.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/120/data_kdb.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/120/data_kdb.csv",
 		"oF": 0
 		},
-	"/dl-sim/120/data_kr.csv": {
+	"/dl-sim-deploy/dl-sim/120/data_kr.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/120/data_kr.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/120/data_kr.csv",
 		"oF": 0
 		},
-	"/dl-sim/120/data_krb.csv": {
+	"/dl-sim-deploy/dl-sim/120/data_krb.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/120/data_krb.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/120/data_krb.csv",
 		"oF": 0
 		},
-	"/dl-sim/120/data_krd.csv": {
+	"/dl-sim-deploy/dl-sim/120/data_krd.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/120/data_krd.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/120/data_krd.csv",
 		"oF": 0
 		},
-	"/dl-sim/120/data_krdb.csv": {
+	"/dl-sim-deploy/dl-sim/120/data_krdb.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/120/data_krdb.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/120/data_krdb.csv",
 		"oF": 0
 		},
-	"/dl-sim/120/data_r.csv": {
+	"/dl-sim-deploy/dl-sim/120/data_r.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/120/data_r.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/120/data_r.csv",
 		"oF": 0
 		},
-	"/dl-sim/120/data_rb.csv": {
+	"/dl-sim-deploy/dl-sim/120/data_rb.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/120/data_rb.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/120/data_rb.csv",
 		"oF": 0
 		},
-	"/dl-sim/120/data_rd.csv": {
+	"/dl-sim-deploy/dl-sim/120/data_rd.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/120/data_rd.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/120/data_rd.csv",
 		"oF": 0
 		},
-	"/dl-sim/120/data_rdb.csv": {
+	"/dl-sim-deploy/dl-sim/120/data_rdb.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/120/data_rdb.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/120/data_rdb.csv",
 		"oF": 0
 		},
-	"/dl-sim/120/index.html": {
+	"/dl-sim-deploy/dl-sim/120/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/120/index.html",
+		"oAP": "/dl-sim-deploy/dl-sim/120/index.html",
 		"oF": 0
 		},
-	"/dl-sim/120/index.pug": {
+	"/dl-sim-deploy/dl-sim/120/index.pug": {
 		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/120/index.html",
+		"oAP": "/dl-sim-deploy/dl-sim/120/index.html",
 		"oF": 0,
 		"oS": 0
 		},
-	"/dl-sim/180/data__.csv": {
+	"/dl-sim-deploy/dl-sim/180/data__.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/180/data__.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/180/data__.csv",
 		"oF": 0
 		},
-	"/dl-sim/180/data_b.csv": {
+	"/dl-sim-deploy/dl-sim/180/data_b.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/180/data_b.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/180/data_b.csv",
 		"oF": 0
 		},
-	"/dl-sim/180/data_d.csv": {
+	"/dl-sim-deploy/dl-sim/180/data_d.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/180/data_d.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/180/data_d.csv",
 		"oF": 0
 		},
-	"/dl-sim/180/data_db.csv": {
+	"/dl-sim-deploy/dl-sim/180/data_db.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/180/data_db.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/180/data_db.csv",
 		"oF": 0
 		},
-	"/dl-sim/180/data_k.csv": {
+	"/dl-sim-deploy/dl-sim/180/data_k.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/180/data_k.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/180/data_k.csv",
 		"oF": 0
 		},
-	"/dl-sim/180/data_kb.csv": {
+	"/dl-sim-deploy/dl-sim/180/data_kb.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/180/data_kb.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/180/data_kb.csv",
 		"oF": 0
 		},
-	"/dl-sim/180/data_kd.csv": {
+	"/dl-sim-deploy/dl-sim/180/data_kd.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/180/data_kd.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/180/data_kd.csv",
 		"oF": 0
 		},
-	"/dl-sim/180/data_kdb.csv": {
+	"/dl-sim-deploy/dl-sim/180/data_kdb.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/180/data_kdb.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/180/data_kdb.csv",
 		"oF": 0
 		},
-	"/dl-sim/180/data_kr.csv": {
+	"/dl-sim-deploy/dl-sim/180/data_kr.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/180/data_kr.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/180/data_kr.csv",
 		"oF": 0
 		},
-	"/dl-sim/180/data_krb.csv": {
+	"/dl-sim-deploy/dl-sim/180/data_krb.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/180/data_krb.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/180/data_krb.csv",
 		"oF": 0
 		},
-	"/dl-sim/180/data_krd.csv": {
+	"/dl-sim-deploy/dl-sim/180/data_krd.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/180/data_krd.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/180/data_krd.csv",
 		"oF": 0
 		},
-	"/dl-sim/180/data_krdb.csv": {
+	"/dl-sim-deploy/dl-sim/180/data_krdb.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/180/data_krdb.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/180/data_krdb.csv",
 		"oF": 0
 		},
-	"/dl-sim/180/data_r.csv": {
+	"/dl-sim-deploy/dl-sim/180/data_r.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/180/data_r.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/180/data_r.csv",
 		"oF": 0
 		},
-	"/dl-sim/180/data_rb.csv": {
+	"/dl-sim-deploy/dl-sim/180/data_rb.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/180/data_rb.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/180/data_rb.csv",
 		"oF": 0
 		},
-	"/dl-sim/180/data_rd.csv": {
+	"/dl-sim-deploy/dl-sim/180/data_rd.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/180/data_rd.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/180/data_rd.csv",
 		"oF": 0
 		},
-	"/dl-sim/180/data_rdb.csv": {
+	"/dl-sim-deploy/dl-sim/180/data_rdb.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/180/data_rdb.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/180/data_rdb.csv",
 		"oF": 0
 		},
-	"/dl-sim/180/index.html": {
+	"/dl-sim-deploy/dl-sim/180/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/180/index.html",
+		"oAP": "/dl-sim-deploy/dl-sim/180/index.html",
 		"oF": 0
 		},
-	"/dl-sim/180/index.pug": {
+	"/dl-sim-deploy/dl-sim/180/index.pug": {
 		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/180/index.html",
+		"oAP": "/dl-sim-deploy/dl-sim/180/index.html",
 		"oF": 0,
 		"oS": 0
 		},
-	"/dl-sim/60/data__.csv": {
+	"/dl-sim-deploy/dl-sim/60/data__.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/60/data__.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/60/data__.csv",
 		"oF": 0
 		},
-	"/dl-sim/60/data_b.csv": {
+	"/dl-sim-deploy/dl-sim/60/data_b.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/60/data_b.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/60/data_b.csv",
 		"oF": 0
 		},
-	"/dl-sim/60/data_d.csv": {
+	"/dl-sim-deploy/dl-sim/60/data_d.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/60/data_d.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/60/data_d.csv",
 		"oF": 0
 		},
-	"/dl-sim/60/data_db.csv": {
+	"/dl-sim-deploy/dl-sim/60/data_db.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/60/data_db.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/60/data_db.csv",
 		"oF": 0
 		},
-	"/dl-sim/60/data_k.csv": {
+	"/dl-sim-deploy/dl-sim/60/data_k.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/60/data_k.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/60/data_k.csv",
 		"oF": 0
 		},
-	"/dl-sim/60/data_kb.csv": {
+	"/dl-sim-deploy/dl-sim/60/data_kb.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/60/data_kb.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/60/data_kb.csv",
 		"oF": 0
 		},
-	"/dl-sim/60/data_kd.csv": {
+	"/dl-sim-deploy/dl-sim/60/data_kd.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/60/data_kd.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/60/data_kd.csv",
 		"oF": 0
 		},
-	"/dl-sim/60/data_kdb.csv": {
+	"/dl-sim-deploy/dl-sim/60/data_kdb.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/60/data_kdb.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/60/data_kdb.csv",
 		"oF": 0
 		},
-	"/dl-sim/60/data_kr.csv": {
+	"/dl-sim-deploy/dl-sim/60/data_kr.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/60/data_kr.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/60/data_kr.csv",
 		"oF": 0
 		},
-	"/dl-sim/60/data_krb.csv": {
+	"/dl-sim-deploy/dl-sim/60/data_krb.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/60/data_krb.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/60/data_krb.csv",
 		"oF": 0
 		},
-	"/dl-sim/60/data_krd.csv": {
+	"/dl-sim-deploy/dl-sim/60/data_krd.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/60/data_krd.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/60/data_krd.csv",
 		"oF": 0
 		},
-	"/dl-sim/60/data_krdb.csv": {
+	"/dl-sim-deploy/dl-sim/60/data_krdb.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/60/data_krdb.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/60/data_krdb.csv",
 		"oF": 0
 		},
-	"/dl-sim/60/data_r.csv": {
+	"/dl-sim-deploy/dl-sim/60/data_r.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/60/data_r.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/60/data_r.csv",
 		"oF": 0
 		},
-	"/dl-sim/60/data_rb.csv": {
+	"/dl-sim-deploy/dl-sim/60/data_rb.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/60/data_rb.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/60/data_rb.csv",
 		"oF": 0
 		},
-	"/dl-sim/60/data_rd.csv": {
+	"/dl-sim-deploy/dl-sim/60/data_rd.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/60/data_rd.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/60/data_rd.csv",
 		"oF": 0
 		},
-	"/dl-sim/60/data_rdb.csv": {
+	"/dl-sim-deploy/dl-sim/60/data_rdb.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/60/data_rdb.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/60/data_rdb.csv",
 		"oF": 0
 		},
-	"/dl-sim/60/index.html": {
+	"/dl-sim-deploy/dl-sim/60/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/60/index.html",
+		"oAP": "/dl-sim-deploy/dl-sim/60/index.html",
 		"oF": 0
 		},
-	"/dl-sim/60/index.pug": {
+	"/dl-sim-deploy/dl-sim/60/index.pug": {
 		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/60/index.html",
+		"oAP": "/dl-sim-deploy/dl-sim/60/index.html",
 		"oF": 0,
 		"oS": 0
 		},
-	"/dl-sim/_includes/footer.pug": {
+	"/dl-sim-deploy/dl-sim/_includes/footer.pug": {
 		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/dl-sim/_includes/footer.html",
+		"oAP": "/dl-sim-deploy/dl-sim/_includes/footer.html",
 		"oF": 0,
 		"oS": 0
 		},
-	"/dl-sim/_includes/head.pug": {
+	"/dl-sim-deploy/dl-sim/_includes/head.pug": {
 		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/dl-sim/_includes/head.html",
+		"oAP": "/dl-sim-deploy/dl-sim/_includes/head.html",
 		"oF": 1,
 		"oS": 0
 		},
-	"/dl-sim/_includes/header.pug": {
+	"/dl-sim-deploy/dl-sim/_includes/header.pug": {
 		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/dl-sim/_includes/header.html",
+		"oAP": "/dl-sim-deploy/dl-sim/_includes/header.html",
 		"oF": 0,
 		"oS": 0
 		},
-	"/dl-sim/_includes/script.pug": {
+	"/dl-sim-deploy/dl-sim/_includes/script.pug": {
 		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/dl-sim/_includes/script.html",
+		"oAP": "/dl-sim-deploy/dl-sim/_includes/script.html",
 		"oF": 1,
 		"oS": 0
 		},
-	"/dl-sim/a.js": {
+	"/dl-sim-deploy/dl-sim/a.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "/dl-sim/a-min.js",
+		"oAP": "/dl-sim-deploy/dl-sim/a-min.js",
 		"oF": 1,
 		"sC": 0,
 		"tS": 0
 		},
-	"/dl-sim/amulet.csv": {
+	"/dl-sim-deploy/dl-sim/amulet.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/amulet.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/amulet.csv",
 		"oF": 0
 		},
-	"/dl-sim/b.js": {
+	"/dl-sim-deploy/dl-sim/b.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "/dl-sim/b-min.js",
+		"oAP": "/dl-sim-deploy/dl-sim/b-min.js",
 		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
-	"/dl-sim/chara/0.csv": {
+	"/dl-sim-deploy/dl-sim/chara/0.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/0.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/0.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/addis.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/addis.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/addis.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/addis.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/addis.py.hmcmeta.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/addis.py.hmcmeta.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/addis.py.hmcmeta.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/addis.py.hmcmeta.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/aeleen.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/aeleen.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/aeleen.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/aeleen.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/alain.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/alain.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/alain.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/alain.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/albert.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/albert.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/albert.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/albert.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/alex.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/alex.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/alex.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/alex.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/alfonse.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/alfonse.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/alfonse.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/alfonse.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/althemia.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/althemia.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/althemia.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/althemia.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/amane.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/amane.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/amane.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/amane.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/annelie.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/annelie.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/annelie.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/annelie.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/aoi.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/aoi.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/aoi.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/aoi.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/b_zardin.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/b_zardin.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/b_zardin.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/b_zardin.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/berserker.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/berserker.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/berserker.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/berserker.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/botan.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/botan.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/botan.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/botan.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/celliera.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/celliera.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/celliera.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/celliera.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/cibella.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/cibella.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/cibella.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/cibella.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/curran.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/curran.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/curran.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/curran.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/d_cleo.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/d_cleo.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/d_cleo.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/d_cleo.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/d_nefaria.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/d_nefaria.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/d_nefaria.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/d_nefaria.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/d_xander.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/d_xander.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/d_xander.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/d_xander.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/eleonora.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/eleonora.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/eleonora.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/eleonora.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/elias.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/elias.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/elias.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/elias.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/elisanne.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/elisanne.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/elisanne.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/elisanne.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/elisanne.py.goodteam.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/elisanne.py.goodteam.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/elisanne.py.goodteam.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/elisanne.py.goodteam.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/emma.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/emma.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/emma.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/emma.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/erik.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/erik.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/erik.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/erik.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/euden.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/euden.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/euden.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/euden.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/ezelith.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/ezelith.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/ezelith.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/ezelith.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/fjorm.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/fjorm.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/fjorm.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/fjorm.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/fleur.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/fleur.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/fleur.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/fleur.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/francesca.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/francesca.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/francesca.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/francesca.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/fritz.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/fritz.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/fritz.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/fritz.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/g_cleo.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/g_cleo.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/g_cleo.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/g_cleo.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/g_euden.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/g_euden.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/g_euden.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/g_euden.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/g_mym.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/g_mym.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/g_mym.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/g_mym.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/g_mym.py.sp.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/g_mym.py.sp.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/g_mym.py.sp.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/g_mym.py.sp.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/g_ranzal.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/g_ranzal.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/g_ranzal.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/g_ranzal.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/g_sarisse.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/g_sarisse.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/g_sarisse.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/g_sarisse.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/g_sarisse.py.rollfs.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/g_sarisse.py.rollfs.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/g_sarisse.py.rollfs.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/g_sarisse.py.rollfs.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/h_edward.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/h_edward.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/h_edward.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/h_edward.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/h_elisanne.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/h_elisanne.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/h_elisanne.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/h_elisanne.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/hawk.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/hawk.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/hawk.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/hawk.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/heinwald.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/heinwald.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/heinwald.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/heinwald.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/ieyasu.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/ieyasu.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/ieyasu.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/ieyasu.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/irfan.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/irfan.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/irfan.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/irfan.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/jakob.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/jakob.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/jakob.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/jakob.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/joe.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/joe.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/joe.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/joe.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/johanna.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/johanna.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/johanna.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/johanna.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/julietta.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/julietta.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/julietta.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/julietta.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/jurota.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/jurota.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/jurota.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/jurota.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/karina.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/karina.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/karina.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/karina.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/karl.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/karl.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/karl.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/karl.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/kleimann.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/kleimann.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/kleimann.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/kleimann.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/kuhai.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/kuhai.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/kuhai.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/kuhai.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/laranoa.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/laranoa.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/laranoa.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/laranoa.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/laranoa.py.rollfs.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/laranoa.py.rollfs.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/laranoa.py.rollfs.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/laranoa.py.rollfs.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/lea.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/lea.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/lea.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/lea.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/lily.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/lily.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/lily.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/lily.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/linus.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/linus.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/linus.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/linus.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/linyou.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/linyou.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/linyou.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/linyou.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/linyou.py.z.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/linyou.py.z.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/linyou.py.z.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/linyou.py.z.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/louise.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/louise.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/louise.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/louise.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/louise.py.doublebuff.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/louise.py.doublebuff.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/louise.py.doublebuff.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/louise.py.doublebuff.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/louise.py.rollfs.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/louise.py.rollfs.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/louise.py.rollfs.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/louise.py.rollfs.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/luca.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/luca.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/luca.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/luca.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/lucretia.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/lucretia.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/lucretia.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/lucretia.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/luther.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/luther.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/luther.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/luther.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/malka.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/malka.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/malka.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/malka.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/malora.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/malora.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/malora.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/malora.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/maribelle.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/maribelle.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/maribelle.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/maribelle.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/marth.py.cheese.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/marth.py.cheese.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/marth.py.cheese.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/marth.py.cheese.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/marth.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/marth.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/marth.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/marth.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/marty.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/marty.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/marty.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/marty.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/melody.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/melody.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/melody.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/melody.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/melody.py.goodteam.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/melody.py.goodteam.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/melody.py.goodteam.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/melody.py.goodteam.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/melsa.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/melsa.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/melsa.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/melsa.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/mikoto.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/mikoto.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/mikoto.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/mikoto.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/musashi.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/musashi.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/musashi.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/musashi.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/natalie.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/natalie.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/natalie.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/natalie.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/natalie.py.hp1.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/natalie.py.hp1.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/natalie.py.hp1.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/natalie.py.hp1.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/natalie.py.hp20.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/natalie.py.hp20.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/natalie.py.hp20.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/natalie.py.hp20.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/naveed.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/naveed.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/naveed.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/naveed.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/nefaria.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/nefaria.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/nefaria.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/nefaria.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/nicolas.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/nicolas.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/nicolas.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/nicolas.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/noelle.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/noelle.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/noelle.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/noelle.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/noelle.py.goodteam.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/noelle.py.goodteam.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/noelle.py.goodteam.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/noelle.py.goodteam.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/norwin.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/norwin.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/norwin.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/norwin.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/odetta.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/odetta.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/odetta.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/odetta.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/orion.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/orion.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/orion.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/orion.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/orsem.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/orsem.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/orsem.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/orsem.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/philia.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/philia.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/philia.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/philia.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/pia.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/pia.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/pia.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/pia.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/pietro.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/pietro.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/pietro.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/pietro.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/quick.csv": {
+	"/dl-sim-deploy/dl-sim/chara/quick.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/quick.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/quick.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/raemond.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/raemond.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/raemond.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/raemond.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/ramona.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/ramona.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/ramona.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/ramona.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/ranzal.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/ranzal.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/ranzal.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/ranzal.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/rawn.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/rawn.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/rawn.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/rawn.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/rena.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/rena.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/rena.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/rena.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/renee.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/renee.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/renee.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/renee.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/renelle.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/renelle.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/renelle.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/renelle.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/rex.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/rex.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/rex.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/rex.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/rodrigo.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/rodrigo.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/rodrigo.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/rodrigo.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/ryozen.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/ryozen.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/ryozen.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/ryozen.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/s_celliera.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/s_celliera.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/s_celliera.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/s_celliera.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/s_cleo.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/s_cleo.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/s_cleo.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/s_cleo.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/s_estelle.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/s_estelle.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/s_estelle.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/s_estelle.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/s_julietta.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/s_julietta.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/s_julietta.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/s_julietta.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/s_luca.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/s_luca.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/s_luca.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/s_luca.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/s_maribelle.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/s_maribelle.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/s_maribelle.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/s_maribelle.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/s_ranzal.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/s_ranzal.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/s_ranzal.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/s_ranzal.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/sazanka.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/sazanka.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/sazanka.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/sazanka.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/serena.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/serena.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/serena.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/serena.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/sinoa.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/sinoa.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/sinoa.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/sinoa.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/slow.csv": {
+	"/dl-sim-deploy/dl-sim/chara/slow.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/slow.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/slow.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/sufang.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/sufang.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/sufang.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/sufang.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/sylas.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/sylas.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/sylas.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/sylas.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/taro.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/taro.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/taro.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/taro.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/v_ezelith.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/v_ezelith.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/v_ezelith.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/v_ezelith.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/v_orion.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/v_orion.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/v_orion.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/v_orion.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/vanessa.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/vanessa.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/vanessa.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/vanessa.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/veronica.py.1hp.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/veronica.py.1hp.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/veronica.py.1hp.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/veronica.py.1hp.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/veronica.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/veronica.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/veronica.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/veronica.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/vice.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/vice.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/vice.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/vice.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/victor.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/victor.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/victor.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/victor.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/vida.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/vida.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/vida.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/vida.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/w_aoi.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/w_aoi.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/w_aoi.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/w_aoi.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/w_elisanne.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/w_elisanne.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/w_elisanne.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/w_elisanne.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/waike.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/waike.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/waike.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/waike.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/xainfried.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/xainfried.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/xainfried.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/xainfried.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/xander.py.2fs.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/xander.py.2fs.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/xander.py.2fs.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/xander.py.2fs.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/xander.py.best.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/xander.py.best.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/xander.py.best.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/xander.py.best.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/xander.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/xander.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/xander.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/xander.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/xania.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/xania.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/xania.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/xania.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/xiaolei.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/xiaolei.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/xiaolei.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/xiaolei.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/xuanzang.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/xuanzang.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/xuanzang.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/xuanzang.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/yachiyo.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/yachiyo.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/yachiyo.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/yachiyo.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/yaten.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/yaten.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/yaten.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/yaten.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/yue.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/yue.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/yue.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/yue.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/zace.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/zace.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/zace.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/zace.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/chara/zardin.py.csv": {
+	"/dl-sim-deploy/dl-sim/chara/zardin.py.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/chara/zardin.py.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/chara/zardin.py.csv",
 		"oF": 0
 		},
-	"/dl-sim/destyle.less": {
+	"/dl-sim-deploy/dl-sim/destyle.less": {
 		"aP": 0,
 		"bl": 0,
 		"eJ": 0,
@@ -1759,2414 +1759,2414 @@
 		"ma": 1,
 		"mS": 0,
 		"oA": 1,
-		"oAP": "/dl-sim/destyle.css",
+		"oAP": "/dl-sim-deploy/dl-sim/destyle.css",
 		"oF": 0,
 		"oS": 0,
 		"rwU": 0,
 		"sI": 0,
 		"sU": 0
 		},
-	"/dl-sim/echarts.common.min.js": {
+	"/dl-sim-deploy/dl-sim/echarts.common.min.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "/dl-sim/echarts.common.min-min.js",
+		"oAP": "/dl-sim-deploy/dl-sim/echarts.common.min-min.js",
 		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
-	"/dl-sim/favicon.png": {
+	"/dl-sim-deploy/dl-sim/favicon.png": {
 		"ft": 32768,
 		"iS": 49969,
 		"oA": 0,
-		"oAP": "/dl-sim/favicon.png",
+		"oAP": "/dl-sim-deploy/dl-sim/favicon.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/index.html": {
+	"/dl-sim-deploy/dl-sim/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/index.html",
+		"oAP": "/dl-sim-deploy/dl-sim/index.html",
 		"oF": 0
 		},
-	"/dl-sim/logo-new.png": {
+	"/dl-sim-deploy/dl-sim/logo-new.png": {
 		"ft": 32768,
 		"iS": 98230,
 		"oA": 0,
-		"oAP": "/dl-sim/logo-new.png",
+		"oAP": "/dl-sim-deploy/dl-sim/logo-new.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/logo.png": {
+	"/dl-sim-deploy/dl-sim/logo.png": {
 		"ft": 32768,
 		"iS": 42794,
 		"oA": 0,
-		"oAP": "/dl-sim/logo.png",
+		"oAP": "/dl-sim-deploy/dl-sim/logo.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/logo.webp": {
+	"/dl-sim-deploy/dl-sim/logo.webp": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/logo.webp",
+		"oAP": "/dl-sim-deploy/dl-sim/logo.webp",
 		"oF": 0
 		},
-	"/dl-sim/papaparse.min.js": {
+	"/dl-sim-deploy/dl-sim/papaparse.min.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "/dl-sim/papaparse.min-min.js",
+		"oAP": "/dl-sim-deploy/dl-sim/papaparse.min-min.js",
 		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
-	"/dl-sim/pic/1.png": {
+	"/dl-sim-deploy/dl-sim/pic/1.png": {
 		"ft": 32768,
 		"iS": 529335,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/1.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/1.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/An_Ancient_Oath.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/An_Ancient_Oath.png": {
 		"ft": 32768,
 		"iS": 29989,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/An_Ancient_Oath.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/An_Ancient_Oath.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Beach_Battle.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Beach_Battle.png": {
 		"ft": 32768,
 		"iS": 13420,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Beach_Battle.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Beach_Battle.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Beautiful_Nothingness.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Beautiful_Nothingness.png": {
 		"ft": 32768,
 		"iS": 14101,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Beautiful_Nothingness.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Beautiful_Nothingness.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Bellathorna.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Bellathorna.png": {
 		"ft": 32768,
 		"iS": 13927,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Bellathorna.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Bellathorna.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Bonds_Between_Worlds.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Bonds_Between_Worlds.png": {
 		"ft": 32768,
 		"iS": 13796,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Bonds_Between_Worlds.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Bonds_Between_Worlds.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Castle_Cheer_Corps.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Castle_Cheer_Corps.png": {
 		"ft": 32768,
 		"iS": 29799,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Castle_Cheer_Corps.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Castle_Cheer_Corps.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Crystalian_Envoy.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Crystalian_Envoy.png": {
 		"ft": 32768,
 		"iS": 13219,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Crystalian_Envoy.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Crystalian_Envoy.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Dragon_and_Tamer.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Dragon_and_Tamer.png": {
 		"ft": 32768,
 		"iS": 13522,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Dragon_and_Tamer.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Dragon_and_Tamer.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Elegant_Escort.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Elegant_Escort.png": {
 		"ft": 32768,
 		"iS": 13140,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Elegant_Escort.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Elegant_Escort.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Endless_Waltz.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Endless_Waltz.png": {
 		"ft": 32768,
 		"iS": 27755,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Endless_Waltz.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Endless_Waltz.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Evening_of_Luxury.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Evening_of_Luxury.png": {
 		"ft": 32768,
 		"iS": 12906,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Evening_of_Luxury.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Evening_of_Luxury.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/First_Rate_Hospitality.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/First_Rate_Hospitality.png": {
 		"ft": 32768,
 		"iS": 14388,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/First_Rate_Hospitality.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/First_Rate_Hospitality.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Flash_of_Genius.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Flash_of_Genius.png": {
 		"ft": 32768,
 		"iS": 12817,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Flash_of_Genius.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Flash_of_Genius.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Flower_in_the_Fray.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Flower_in_the_Fray.png": {
 		"ft": 32768,
 		"iS": 13375,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Flower_in_the_Fray.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Flower_in_the_Fray.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Forest_Bonds.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Forest_Bonds.png": {
 		"ft": 32768,
 		"iS": 13368,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Forest_Bonds.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Forest_Bonds.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Fresh_Perspective.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Fresh_Perspective.png": {
 		"ft": 32768,
 		"iS": 13295,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Fresh_Perspective.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Fresh_Perspective.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Gentle_Winds.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Gentle_Winds.png": {
 		"ft": 32768,
 		"iS": 29333,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Gentle_Winds.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Gentle_Winds.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Halidom_Grooms.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Halidom_Grooms.png": {
 		"ft": 32768,
 		"iS": 14074,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Halidom_Grooms.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Halidom_Grooms.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Hanetsuki_Rally.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Hanetsuki_Rally.png": {
 		"ft": 32768,
 		"iS": 13684,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Hanetsuki_Rally.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Hanetsuki_Rally.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Happier_Times.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Happier_Times.png": {
 		"ft": 32768,
 		"iS": 31832,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Happier_Times.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Happier_Times.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Heralds_of_Hinomoto.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Heralds_of_Hinomoto.png": {
 		"ft": 32768,
 		"iS": 13506,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Heralds_of_Hinomoto.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Heralds_of_Hinomoto.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Indelible_Summer.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Indelible_Summer.png": {
 		"ft": 32768,
 		"iS": 13464,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Indelible_Summer.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Indelible_Summer.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Jewels_of_the_Sun.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Jewels_of_the_Sun.png": {
 		"ft": 32768,
 		"iS": 13303,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Jewels_of_the_Sun.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Jewels_of_the_Sun.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Kung_Fu_Masters.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Kung_Fu_Masters.png": {
 		"ft": 32768,
 		"iS": 13459,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Kung_Fu_Masters.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Kung_Fu_Masters.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Levins_Champion.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Levins_Champion.png": {
 		"ft": 32768,
 		"iS": 13892,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Levins_Champion.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Levins_Champion.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Lord_of_the_Skies.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Lord_of_the_Skies.png": {
 		"ft": 32768,
 		"iS": 13641,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Lord_of_the_Skies.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Lord_of_the_Skies.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Luck_of_the_Draw.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Luck_of_the_Draw.png": {
 		"ft": 32768,
 		"iS": 13788,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Luck_of_the_Draw.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Luck_of_the_Draw.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Lunar_Festivities.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Lunar_Festivities.png": {
 		"ft": 32768,
 		"iS": 13464,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Lunar_Festivities.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Lunar_Festivities.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Odd_Sparrows.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Odd_Sparrows.png": {
 		"ft": 32768,
 		"iS": 32727,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Odd_Sparrows.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Odd_Sparrows.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/One_with_the_Shadows.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/One_with_the_Shadows.png": {
 		"ft": 32768,
 		"iS": 13157,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/One_with_the_Shadows.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/One_with_the_Shadows.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Plunder_Pals.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Plunder_Pals.png": {
 		"ft": 32768,
 		"iS": 13524,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Plunder_Pals.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Plunder_Pals.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Resounding_Rendition.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Resounding_Rendition.png": {
 		"ft": 32768,
 		"iS": 12078,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Resounding_Rendition.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Resounding_Rendition.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Saintly_Delivery.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Saintly_Delivery.png": {
 		"ft": 32768,
 		"iS": 13229,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Saintly_Delivery.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Saintly_Delivery.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Seaside_Princess.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Seaside_Princess.png": {
 		"ft": 32768,
 		"iS": 13123,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Seaside_Princess.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Seaside_Princess.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Silke_Lends_a_Hand.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Silke_Lends_a_Hand.png": {
 		"ft": 32768,
 		"iS": 13592,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Silke_Lends_a_Hand.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Silke_Lends_a_Hand.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Sisters_Day_Out.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Sisters_Day_Out.png": {
 		"ft": 32768,
 		"iS": 13183,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Sisters_Day_Out.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Sisters_Day_Out.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Stellar_Show.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Stellar_Show.png": {
 		"ft": 32768,
 		"iS": 12551,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Stellar_Show.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Stellar_Show.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Summer_Paladyns.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Summer_Paladyns.png": {
 		"ft": 32768,
 		"iS": 13761,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Summer_Paladyns.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Summer_Paladyns.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/The_Chocolatiers.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/The_Chocolatiers.png": {
 		"ft": 32768,
 		"iS": 13439,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/The_Chocolatiers.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/The_Chocolatiers.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/The_Petal_Queen.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/The_Petal_Queen.png": {
 		"ft": 32768,
 		"iS": 13498,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/The_Petal_Queen.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/The_Petal_Queen.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/The_Prince_of_Dragonyule.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/The_Prince_of_Dragonyule.png": {
 		"ft": 32768,
 		"iS": 13650,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/The_Prince_of_Dragonyule.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/The_Prince_of_Dragonyule.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/The_Shining_Overlord.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/The_Shining_Overlord.png": {
 		"ft": 32768,
 		"iS": 12403,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/The_Shining_Overlord.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/The_Shining_Overlord.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/The_Warrioresses.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/The_Warrioresses.png": {
 		"ft": 32768,
 		"iS": 13897,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/The_Warrioresses.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/The_Warrioresses.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Together_We_Stand.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Together_We_Stand.png": {
 		"ft": 32768,
 		"iS": 13935,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Together_We_Stand.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Together_We_Stand.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Tough_Love.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Tough_Love.png": {
 		"ft": 32768,
 		"iS": 12586,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Tough_Love.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Tough_Love.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Twinfold_Bonds.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Twinfold_Bonds.png": {
 		"ft": 32768,
 		"iS": 13184,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Twinfold_Bonds.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Twinfold_Bonds.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/United_by_One_Vision.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/United_by_One_Vision.png": {
 		"ft": 32768,
 		"iS": 32581,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/United_by_One_Vision.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/United_by_One_Vision.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Valiant_Crown.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Valiant_Crown.png": {
 		"ft": 32768,
 		"iS": 12383,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Valiant_Crown.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Valiant_Crown.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Witchs_Kitchen.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Witchs_Kitchen.png": {
 		"ft": 32768,
 		"iS": 32210,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Witchs_Kitchen.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Witchs_Kitchen.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/amulet/Worthy_Rivals.png": {
+	"/dl-sim-deploy/dl-sim/pic/amulet/Worthy_Rivals.png": {
 		"ft": 32768,
 		"iS": 12411,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/amulet/Worthy_Rivals.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/amulet/Worthy_Rivals.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Addis.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Addis.png": {
 		"ft": 32768,
 		"iS": 12118,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Addis.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Addis.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Aeleen.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Aeleen.png": {
 		"ft": 32768,
 		"iS": 14269,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Aeleen.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Aeleen.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Alain.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Alain.png": {
 		"ft": 32768,
 		"iS": 12925,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Alain.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Alain.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Albert.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Albert.png": {
 		"ft": 32768,
 		"iS": 12608,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Albert.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Albert.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Alex.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Alex.png": {
 		"ft": 32768,
 		"iS": 10997,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Alex.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Alex.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Alfonse.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Alfonse.png": {
 		"ft": 32768,
 		"iS": 13122,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Alfonse.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Alfonse.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Althemia.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Althemia.png": {
 		"ft": 32768,
 		"iS": 13522,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Althemia.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Althemia.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Amane.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Amane.png": {
 		"ft": 32768,
 		"iS": 13613,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Amane.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Amane.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Annelie.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Annelie.png": {
 		"ft": 32768,
 		"iS": 13410,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Annelie.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Annelie.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Aoi.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Aoi.png": {
 		"ft": 32768,
 		"iS": 12842,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Aoi.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Aoi.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Audric.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Audric.png": {
 		"ft": 32768,
 		"iS": 13504,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Audric.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Audric.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/B_Zardin.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/B_Zardin.png": {
 		"ft": 32768,
 		"iS": 13447,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/B_Zardin.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/B_Zardin.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Berserker.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Berserker.png": {
 		"ft": 32768,
 		"iS": 13636,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Berserker.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Berserker.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Botan.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Botan.png": {
 		"ft": 32768,
 		"iS": 13592,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Botan.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Botan.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Cassandra.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Cassandra.png": {
 		"ft": 32768,
 		"iS": 13276,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Cassandra.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Cassandra.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Celliera.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Celliera.png": {
 		"ft": 32768,
 		"iS": 12936,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Celliera.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Celliera.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Cibella.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Cibella.png": {
 		"ft": 32768,
 		"iS": 14061,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Cibella.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Cibella.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Curran.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Curran.png": {
 		"ft": 32768,
 		"iS": 26357,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Curran.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Curran.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/D_Cleo.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/D_Cleo.png": {
 		"ft": 32768,
 		"iS": 13400,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/D_Cleo.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/D_Cleo.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/D_Nefaria.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/D_Nefaria.png": {
 		"ft": 32768,
 		"iS": 12554,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/D_Nefaria.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/D_Nefaria.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/D_Xander.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/D_Xander.png": {
 		"ft": 32768,
 		"iS": 14125,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/D_Xander.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/D_Xander.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Delphi.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Delphi.png": {
 		"ft": 32768,
 		"iS": 28181,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Delphi.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Delphi.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Eleonora.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Eleonora.png": {
 		"ft": 32768,
 		"iS": 13656,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Eleonora.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Eleonora.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Elias.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Elias.png": {
 		"ft": 32768,
 		"iS": 13428,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Elias.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Elias.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Elisanne.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Elisanne.png": {
 		"ft": 32768,
 		"iS": 13435,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Elisanne.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Elisanne.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Emma.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Emma.png": {
 		"ft": 32768,
 		"iS": 12990,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Emma.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Emma.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Erik.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Erik.png": {
 		"ft": 32768,
 		"iS": 13076,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Erik.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Erik.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Euden.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Euden.png": {
 		"ft": 32768,
 		"iS": 13804,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Euden.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Euden.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Ezelith.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Ezelith.png": {
 		"ft": 32768,
 		"iS": 13687,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Ezelith.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Ezelith.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Fjorm.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Fjorm.png": {
 		"ft": 32768,
 		"iS": 13770,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Fjorm.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Fjorm.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Fleur.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Fleur.png": {
 		"ft": 32768,
 		"iS": 13179,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Fleur.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Fleur.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Francesca.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Francesca.png": {
 		"ft": 32768,
 		"iS": 13389,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Francesca.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Francesca.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Fritz.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Fritz.png": {
 		"ft": 32768,
 		"iS": 13535,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Fritz.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Fritz.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/G_Cleo.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/G_Cleo.png": {
 		"ft": 32768,
 		"iS": 16760,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/G_Cleo.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/G_Cleo.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/G_Euden.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/G_Euden.png": {
 		"ft": 32768,
 		"iS": 30154,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/G_Euden.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/G_Euden.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/G_Mym.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/G_Mym.png": {
 		"ft": 32768,
 		"iS": 13511,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/G_Mym.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/G_Mym.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/G_Ranzal.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/G_Ranzal.png": {
 		"ft": 32768,
 		"iS": 10400,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/G_Ranzal.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/G_Ranzal.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/G_Sarisse.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/G_Sarisse.png": {
 		"ft": 32768,
 		"iS": 13310,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/G_Sarisse.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/G_Sarisse.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/H_Edward.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/H_Edward.png": {
 		"ft": 32768,
 		"iS": 12707,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/H_Edward.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/H_Edward.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/H_Elisanne.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/H_Elisanne.png": {
 		"ft": 32768,
 		"iS": 13566,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/H_Elisanne.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/H_Elisanne.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Hawk.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Hawk.png": {
 		"ft": 32768,
 		"iS": 11815,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Hawk.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Hawk.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Heinwald.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Heinwald.png": {
 		"ft": 32768,
 		"iS": 15663,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Heinwald.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Heinwald.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Ieyasu.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Ieyasu.png": {
 		"ft": 32768,
 		"iS": 13488,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Ieyasu.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Ieyasu.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Irfan.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Irfan.png": {
 		"ft": 32768,
 		"iS": 12966,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Irfan.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Irfan.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Jakob.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Jakob.png": {
 		"ft": 32768,
 		"iS": 12962,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Jakob.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Jakob.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Joe.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Joe.png": {
 		"ft": 32768,
 		"iS": 12107,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Joe.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Joe.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Johanna.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Johanna.png": {
 		"ft": 32768,
 		"iS": 12658,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Johanna.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Johanna.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Julietta.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Julietta.png": {
 		"ft": 32768,
 		"iS": 13076,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Julietta.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Julietta.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Jurota.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Jurota.png": {
 		"ft": 32768,
 		"iS": 12941,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Jurota.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Jurota.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Karina.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Karina.png": {
 		"ft": 32768,
 		"iS": 13856,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Karina.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Karina.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Karl.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Karl.png": {
 		"ft": 32768,
 		"iS": 13031,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Karl.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Karl.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Kleimann.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Kleimann.png": {
 		"ft": 32768,
 		"iS": 13871,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Kleimann.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Kleimann.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Kuhai.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Kuhai.png": {
 		"ft": 32768,
 		"iS": 7504,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Kuhai.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Kuhai.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Laranoa.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Laranoa.png": {
 		"ft": 32768,
 		"iS": 13310,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Laranoa.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Laranoa.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Lea.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Lea.png": {
 		"ft": 32768,
 		"iS": 13181,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Lea.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Lea.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Lily.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Lily.png": {
 		"ft": 32768,
 		"iS": 13900,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Lily.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Lily.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Linus.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Linus.png": {
 		"ft": 32768,
 		"iS": 14604,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Linus.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Linus.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Linyou.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Linyou.png": {
 		"ft": 32768,
 		"iS": 8574,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Linyou.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Linyou.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Louise.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Louise.png": {
 		"ft": 32768,
 		"iS": 13670,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Louise.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Louise.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Luca.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Luca.png": {
 		"ft": 32768,
 		"iS": 13470,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Luca.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Luca.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Lucretia.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Lucretia.png": {
 		"ft": 32768,
 		"iS": 13280,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Lucretia.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Lucretia.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Luther.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Luther.png": {
 		"ft": 32768,
 		"iS": 13264,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Luther.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Luther.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Malka.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Malka.png": {
 		"ft": 32768,
 		"iS": 13761,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Malka.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Malka.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Malora.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Malora.png": {
 		"ft": 32768,
 		"iS": 12780,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Malora.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Malora.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Maribelle.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Maribelle.png": {
 		"ft": 32768,
 		"iS": 13788,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Maribelle.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Maribelle.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Marth.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Marth.png": {
 		"ft": 32768,
 		"iS": 13121,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Marth.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Marth.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Marty.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Marty.png": {
 		"ft": 32768,
 		"iS": 12912,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Marty.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Marty.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Melody.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Melody.png": {
 		"ft": 32768,
 		"iS": 13559,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Melody.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Melody.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Melsa.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Melsa.png": {
 		"ft": 32768,
 		"iS": 13264,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Melsa.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Melsa.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Mikoto.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Mikoto.png": {
 		"ft": 32768,
 		"iS": 12915,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Mikoto.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Mikoto.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Musashi.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Musashi.png": {
 		"ft": 32768,
 		"iS": 13146,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Musashi.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Musashi.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Natalie.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Natalie.png": {
 		"ft": 32768,
 		"iS": 13800,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Natalie.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Natalie.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Naveed.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Naveed.png": {
 		"ft": 32768,
 		"iS": 14240,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Naveed.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Naveed.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Nefaria.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Nefaria.png": {
 		"ft": 32768,
 		"iS": 12469,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Nefaria.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Nefaria.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Nicolas.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Nicolas.png": {
 		"ft": 32768,
 		"iS": 13462,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Nicolas.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Nicolas.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Noelle.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Noelle.png": {
 		"ft": 32768,
 		"iS": 30592,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Noelle.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Noelle.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Norwin.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Norwin.png": {
 		"ft": 32768,
 		"iS": 13660,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Norwin.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Norwin.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Odetta.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Odetta.png": {
 		"ft": 32768,
 		"iS": 13405,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Odetta.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Odetta.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Orion.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Orion.png": {
 		"ft": 32768,
 		"iS": 13173,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Orion.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Orion.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Orsem.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Orsem.png": {
 		"ft": 32768,
 		"iS": 13234,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Orsem.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Orsem.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Patia.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Patia.png": {
 		"ft": 32768,
 		"iS": 13149,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Patia.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Patia.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Philia.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Philia.png": {
 		"ft": 32768,
 		"iS": 13238,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Philia.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Philia.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Pia.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Pia.png": {
 		"ft": 32768,
 		"iS": 14249,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Pia.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Pia.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Pietro.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Pietro.png": {
 		"ft": 32768,
 		"iS": 13266,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Pietro.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Pietro.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Raemond.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Raemond.png": {
 		"ft": 32768,
 		"iS": 13335,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Raemond.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Raemond.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Ramona.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Ramona.png": {
 		"ft": 32768,
 		"iS": 12813,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Ramona.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Ramona.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Ranzal.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Ranzal.png": {
 		"ft": 32768,
 		"iS": 13021,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Ranzal.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Ranzal.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Rawn.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Rawn.png": {
 		"ft": 32768,
 		"iS": 13392,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Rawn.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Rawn.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Rena.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Rena.png": {
 		"ft": 32768,
 		"iS": 12954,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Rena.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Rena.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Renee.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Renee.png": {
 		"ft": 32768,
 		"iS": 13001,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Renee.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Renee.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Renelle.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Renelle.png": {
 		"ft": 32768,
 		"iS": 12552,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Renelle.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Renelle.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Rex.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Rex.png": {
 		"ft": 32768,
 		"iS": 12964,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Rex.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Rex.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Rodrigo.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Rodrigo.png": {
 		"ft": 32768,
 		"iS": 13288,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Rodrigo.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Rodrigo.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Ryozen.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Ryozen.png": {
 		"ft": 32768,
 		"iS": 13913,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Ryozen.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Ryozen.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/S_Celliera.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/S_Celliera.png": {
 		"ft": 32768,
 		"iS": 28587,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/S_Celliera.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/S_Celliera.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/S_Cleo.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/S_Cleo.png": {
 		"ft": 32768,
 		"iS": 15629,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/S_Cleo.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/S_Cleo.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/S_Estelle.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/S_Estelle.png": {
 		"ft": 32768,
 		"iS": 27050,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/S_Estelle.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/S_Estelle.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/S_Julietta.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/S_Julietta.png": {
 		"ft": 32768,
 		"iS": 26866,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/S_Julietta.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/S_Julietta.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/S_Luca.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/S_Luca.png": {
 		"ft": 32768,
 		"iS": 15337,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/S_Luca.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/S_Luca.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/S_Maribelle.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/S_Maribelle.png": {
 		"ft": 32768,
 		"iS": 13664,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/S_Maribelle.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/S_Maribelle.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/S_Ranzal.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/S_Ranzal.png": {
 		"ft": 32768,
 		"iS": 23891,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/S_Ranzal.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/S_Ranzal.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Sazanka.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Sazanka.png": {
 		"ft": 32768,
 		"iS": 13105,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Sazanka.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Sazanka.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Serena.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Serena.png": {
 		"ft": 32768,
 		"iS": 13185,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Serena.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Serena.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Sinoa.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Sinoa.png": {
 		"ft": 32768,
 		"iS": 14480,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Sinoa.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Sinoa.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Sufang.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Sufang.png": {
 		"ft": 32768,
 		"iS": 7840,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Sufang.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Sufang.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Sylas.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Sylas.png": {
 		"ft": 32768,
 		"iS": 13192,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Sylas.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Sylas.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Taro.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Taro.png": {
 		"ft": 32768,
 		"iS": 13521,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Taro.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Taro.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/V_Ezelith.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/V_Ezelith.png": {
 		"ft": 32768,
 		"iS": 13366,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/V_Ezelith.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/V_Ezelith.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/V_Orion.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/V_Orion.png": {
 		"ft": 32768,
 		"iS": 13321,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/V_Orion.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/V_Orion.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Vanessa.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Vanessa.png": {
 		"ft": 32768,
 		"iS": 30995,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Vanessa.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Vanessa.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Veronica.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Veronica.png": {
 		"ft": 32768,
 		"iS": 13807,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Veronica.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Veronica.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Vice.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Vice.png": {
 		"ft": 32768,
 		"iS": 12878,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Vice.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Vice.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Victor.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Victor.png": {
 		"ft": 32768,
 		"iS": 26402,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Victor.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Victor.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Vida.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Vida.png": {
 		"ft": 32768,
 		"iS": 13196,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Vida.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Vida.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/W_Aoi.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/W_Aoi.png": {
 		"ft": 32768,
 		"iS": 13244,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/W_Aoi.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/W_Aoi.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/W_Elisanne.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/W_Elisanne.png": {
 		"ft": 32768,
 		"iS": 12824,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/W_Elisanne.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/W_Elisanne.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Waike.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Waike.png": {
 		"ft": 32768,
 		"iS": 13020,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Waike.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Waike.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Xainfried.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Xainfried.png": {
 		"ft": 32768,
 		"iS": 14370,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Xainfried.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Xainfried.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Xander.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Xander.png": {
 		"ft": 32768,
 		"iS": 13361,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Xander.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Xander.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Xania.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Xania.png": {
 		"ft": 32768,
 		"iS": 12379,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Xania.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Xania.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Xiaolei.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Xiaolei.png": {
 		"ft": 32768,
 		"iS": 8515,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Xiaolei.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Xiaolei.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Xuanzang.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Xuanzang.png": {
 		"ft": 32768,
 		"iS": 13768,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Xuanzang.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Xuanzang.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Yachiyo.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Yachiyo.png": {
 		"ft": 32768,
 		"iS": 14034,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Yachiyo.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Yachiyo.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Yaten.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Yaten.png": {
 		"ft": 32768,
 		"iS": 12302,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Yaten.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Yaten.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Yue.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Yue.png": {
 		"ft": 32768,
 		"iS": 12238,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Yue.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Yue.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Zace.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Zace.png": {
 		"ft": 32768,
 		"iS": 12779,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Zace.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Zace.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/character/Zardin.png": {
+	"/dl-sim-deploy/dl-sim/pic/character/Zardin.png": {
 		"ft": 32768,
 		"iS": 13702,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/character/Zardin.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/character/Zardin.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/dragon/Apollo.png": {
+	"/dl-sim-deploy/dl-sim/pic/dragon/Apollo.png": {
 		"ft": 32768,
 		"iS": 13235,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/dragon/Apollo.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/dragon/Apollo.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/dragon/Arctos.png": {
+	"/dl-sim-deploy/dl-sim/pic/dragon/Arctos.png": {
 		"ft": 32768,
 		"iS": 12882,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/dragon/Arctos.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/dragon/Arctos.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/dragon/Cerberus.png": {
+	"/dl-sim-deploy/dl-sim/pic/dragon/Cerberus.png": {
 		"ft": 32768,
 		"iS": 13112,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/dragon/Cerberus.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/dragon/Cerberus.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/dragon/Chthonius.png": {
+	"/dl-sim-deploy/dl-sim/pic/dragon/Chthonius.png": {
 		"ft": 32768,
 		"iS": 12995,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/dragon/Chthonius.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/dragon/Chthonius.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/dragon/Cupid.png": {
+	"/dl-sim-deploy/dl-sim/pic/dragon/Cupid.png": {
 		"ft": 32768,
 		"iS": 13004,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/dragon/Cupid.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/dragon/Cupid.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/dragon/DJ.png": {
+	"/dl-sim-deploy/dl-sim/pic/dragon/DJ.png": {
 		"ft": 32768,
 		"iS": 13039,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/dragon/DJ.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/dragon/DJ.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/dragon/Freyja.png": {
+	"/dl-sim-deploy/dl-sim/pic/dragon/Freyja.png": {
 		"ft": 32768,
 		"iS": 13427,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/dragon/Freyja.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/dragon/Freyja.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/dragon/Leviathan.png": {
+	"/dl-sim-deploy/dl-sim/pic/dragon/Leviathan.png": {
 		"ft": 32768,
 		"iS": 13480,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/dragon/Leviathan.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/dragon/Leviathan.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/dragon/Longlong.png": {
+	"/dl-sim-deploy/dl-sim/pic/dragon/Longlong.png": {
 		"ft": 32768,
 		"iS": 13932,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/dragon/Longlong.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/dragon/Longlong.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/dragon/Marishiten.png": {
+	"/dl-sim-deploy/dl-sim/pic/dragon/Marishiten.png": {
 		"ft": 32768,
 		"iS": 13014,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/dragon/Marishiten.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/dragon/Marishiten.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/dragon/Pazuzu.png": {
+	"/dl-sim-deploy/dl-sim/pic/dragon/Pazuzu.png": {
 		"ft": 32768,
 		"iS": 14253,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/dragon/Pazuzu.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/dragon/Pazuzu.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/dragon/Sakuya.png": {
+	"/dl-sim-deploy/dl-sim/pic/dragon/Sakuya.png": {
 		"ft": 32768,
 		"iS": 12997,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/dragon/Sakuya.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/dragon/Sakuya.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/dragon/Shinobi.png": {
+	"/dl-sim-deploy/dl-sim/pic/dragon/Shinobi.png": {
 		"ft": 32768,
 		"iS": 12871,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/dragon/Shinobi.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/dragon/Shinobi.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/dragon/Siren.png": {
+	"/dl-sim-deploy/dl-sim/pic/dragon/Siren.png": {
 		"ft": 32768,
 		"iS": 13620,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/dragon/Siren.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/dragon/Siren.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/dragon/Vayu.png": {
+	"/dl-sim-deploy/dl-sim/pic/dragon/Vayu.png": {
 		"ft": 32768,
 		"iS": 29007,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/dragon/Vayu.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/dragon/Vayu.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/dragon/Zephyr.png": {
+	"/dl-sim-deploy/dl-sim/pic/dragon/Zephyr.png": {
 		"ft": 32768,
 		"iS": 13581,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/dragon/Zephyr.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/dragon/Zephyr.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/element/flame.png": {
+	"/dl-sim-deploy/dl-sim/pic/element/flame.png": {
 		"ft": 32768,
 		"iS": 5626,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/element/flame.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/element/flame.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/element/light.png": {
+	"/dl-sim-deploy/dl-sim/pic/element/light.png": {
 		"ft": 32768,
 		"iS": 1813,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/element/light.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/element/light.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/element/shadow.png": {
+	"/dl-sim-deploy/dl-sim/pic/element/shadow.png": {
 		"ft": 32768,
 		"iS": 1836,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/element/shadow.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/element/shadow.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/element/water.png": {
+	"/dl-sim-deploy/dl-sim/pic/element/water.png": {
 		"ft": 32768,
 		"iS": 1903,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/element/water.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/element/water.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/element/wind.png": {
+	"/dl-sim-deploy/dl-sim/pic/element/wind.png": {
 		"ft": 32768,
 		"iS": 1898,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/element/wind.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/element/wind.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/logo-new.png": {
+	"/dl-sim-deploy/dl-sim/pic/logo-new.png": {
 		"ft": 32768,
 		"iS": 95280,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/logo-new.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/logo-new.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/rarity/3.png": {
+	"/dl-sim-deploy/dl-sim/pic/rarity/3.png": {
 		"ft": 32768,
 		"iS": 4142,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/rarity/3.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/rarity/3.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/rarity/4.png": {
+	"/dl-sim-deploy/dl-sim/pic/rarity/4.png": {
 		"ft": 32768,
 		"iS": 4147,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/rarity/4.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/rarity/4.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/rarity/5.png": {
+	"/dl-sim-deploy/dl-sim/pic/rarity/5.png": {
 		"ft": 32768,
 		"iS": 4141,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/rarity/5.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/rarity/5.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/weapon/axe.png": {
+	"/dl-sim-deploy/dl-sim/pic/weapon/axe.png": {
 		"ft": 32768,
 		"iS": 1419,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/weapon/axe.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/weapon/axe.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/weapon/blade.png": {
+	"/dl-sim-deploy/dl-sim/pic/weapon/blade.png": {
 		"ft": 32768,
 		"iS": 1226,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/weapon/blade.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/weapon/blade.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/weapon/bow.png": {
+	"/dl-sim-deploy/dl-sim/pic/weapon/bow.png": {
 		"ft": 32768,
 		"iS": 1727,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/weapon/bow.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/weapon/bow.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/weapon/dagger.png": {
+	"/dl-sim-deploy/dl-sim/pic/weapon/dagger.png": {
 		"ft": 32768,
 		"iS": 1603,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/weapon/dagger.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/weapon/dagger.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/weapon/lance.png": {
+	"/dl-sim-deploy/dl-sim/pic/weapon/lance.png": {
 		"ft": 32768,
 		"iS": 1327,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/weapon/lance.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/weapon/lance.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/weapon/staff.png": {
+	"/dl-sim-deploy/dl-sim/pic/weapon/staff.png": {
 		"ft": 32768,
 		"iS": 1490,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/weapon/staff.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/weapon/staff.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/weapon/sword.png": {
+	"/dl-sim-deploy/dl-sim/pic/weapon/sword.png": {
 		"ft": 32768,
 		"iS": 1328,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/weapon/sword.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/weapon/sword.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/pic/weapon/wand.png": {
+	"/dl-sim-deploy/dl-sim/pic/weapon/wand.png": {
 		"ft": 32768,
 		"iS": 1645,
 		"oA": 0,
-		"oAP": "/dl-sim/pic/weapon/wand.png",
+		"oAP": "/dl-sim-deploy/dl-sim/pic/weapon/wand.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/dl-sim/README.html": {
+	"/dl-sim-deploy/dl-sim/README.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/README.html",
+		"oAP": "/dl-sim-deploy/dl-sim/README.html",
 		"oF": 0
 		},
-	"/dl-sim/README.md": {
+	"/dl-sim-deploy/dl-sim/README.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -4176,7 +4176,7 @@
 		"ft": 4096,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/README.html",
+		"oAP": "/dl-sim-deploy/dl-sim/README.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -4185,163 +4185,163 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"/dl-sim/sp/data__.csv": {
+	"/dl-sim-deploy/dl-sim/sp/data__.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/sp/data__.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/sp/data__.csv",
 		"oF": 0
 		},
-	"/dl-sim/sp/data_b.csv": {
+	"/dl-sim-deploy/dl-sim/sp/data_b.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/sp/data_b.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/sp/data_b.csv",
 		"oF": 0
 		},
-	"/dl-sim/sp/data_d.csv": {
+	"/dl-sim-deploy/dl-sim/sp/data_d.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/sp/data_d.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/sp/data_d.csv",
 		"oF": 0
 		},
-	"/dl-sim/sp/data_db.csv": {
+	"/dl-sim-deploy/dl-sim/sp/data_db.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/sp/data_db.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/sp/data_db.csv",
 		"oF": 0
 		},
-	"/dl-sim/sp/data_k.csv": {
+	"/dl-sim-deploy/dl-sim/sp/data_k.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/sp/data_k.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/sp/data_k.csv",
 		"oF": 0
 		},
-	"/dl-sim/sp/data_kb.csv": {
+	"/dl-sim-deploy/dl-sim/sp/data_kb.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/sp/data_kb.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/sp/data_kb.csv",
 		"oF": 0
 		},
-	"/dl-sim/sp/data_kd.csv": {
+	"/dl-sim-deploy/dl-sim/sp/data_kd.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/sp/data_kd.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/sp/data_kd.csv",
 		"oF": 0
 		},
-	"/dl-sim/sp/data_kdb.csv": {
+	"/dl-sim-deploy/dl-sim/sp/data_kdb.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/sp/data_kdb.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/sp/data_kdb.csv",
 		"oF": 0
 		},
-	"/dl-sim/sp/data_kr.csv": {
+	"/dl-sim-deploy/dl-sim/sp/data_kr.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/sp/data_kr.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/sp/data_kr.csv",
 		"oF": 0
 		},
-	"/dl-sim/sp/data_krb.csv": {
+	"/dl-sim-deploy/dl-sim/sp/data_krb.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/sp/data_krb.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/sp/data_krb.csv",
 		"oF": 0
 		},
-	"/dl-sim/sp/data_krd.csv": {
+	"/dl-sim-deploy/dl-sim/sp/data_krd.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/sp/data_krd.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/sp/data_krd.csv",
 		"oF": 0
 		},
-	"/dl-sim/sp/data_krdb.csv": {
+	"/dl-sim-deploy/dl-sim/sp/data_krdb.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/sp/data_krdb.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/sp/data_krdb.csv",
 		"oF": 0
 		},
-	"/dl-sim/sp/data_r.csv": {
+	"/dl-sim-deploy/dl-sim/sp/data_r.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/sp/data_r.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/sp/data_r.csv",
 		"oF": 0
 		},
-	"/dl-sim/sp/data_rb.csv": {
+	"/dl-sim-deploy/dl-sim/sp/data_rb.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/sp/data_rb.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/sp/data_rb.csv",
 		"oF": 0
 		},
-	"/dl-sim/sp/data_rd.csv": {
+	"/dl-sim-deploy/dl-sim/sp/data_rd.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/sp/data_rd.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/sp/data_rd.csv",
 		"oF": 0
 		},
-	"/dl-sim/sp/data_rdb.csv": {
+	"/dl-sim-deploy/dl-sim/sp/data_rdb.csv": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/sp/data_rdb.csv",
+		"oAP": "/dl-sim-deploy/dl-sim/sp/data_rdb.csv",
 		"oF": 0
 		},
-	"/dl-sim/sp/index.html": {
+	"/dl-sim-deploy/dl-sim/sp/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/sp/index.html",
+		"oAP": "/dl-sim-deploy/dl-sim/sp/index.html",
 		"oF": 0
 		},
-	"/dl-sim/sp/index.pug": {
+	"/dl-sim-deploy/dl-sim/sp/index.pug": {
 		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/sp/index.html",
+		"oAP": "/dl-sim-deploy/dl-sim/sp/index.html",
 		"oF": 0,
 		"oS": 0
 		},
-	"/dl-sim/style.css": {
+	"/dl-sim-deploy/dl-sim/style.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/style-min.css",
+		"oAP": "/dl-sim-deploy/dl-sim/style-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"/dl-sim/style.less": {
+	"/dl-sim-deploy/dl-sim/style.less": {
 		"aP": 0,
 		"bl": 0,
 		"eJ": 0,
@@ -4351,31 +4351,31 @@
 		"ma": 0,
 		"mS": 0,
 		"oA": 0,
-		"oAP": "/dl-sim/style.css",
+		"oAP": "/dl-sim-deploy/dl-sim/style.css",
 		"oF": 0,
 		"oS": 1,
 		"rwU": 0,
 		"sI": 0,
 		"sU": 0
 		},
-	"/dl-sim/ui.js": {
+	"/dl-sim-deploy/dl-sim/ui.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "/dl-sim/ui-min.js",
+		"oAP": "/dl-sim-deploy/dl-sim/ui-min.js",
 		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
-	"/dl-sim/vintage.js": {
+	"/dl-sim-deploy/dl-sim/vintage.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/dl-sim/vintage-min.js",
+		"oAP": "/dl-sim-deploy/dl-sim/vintage-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
